@@ -1,5 +1,5 @@
 # colourpt
-A virtual environment used to study proprioception and limb control with and w/o visual guidance.
+A virtual environment designed for the study of proprioception and limb control, with and w/o the digital-visual guidance of one's own limb. 
 # Install
 # Usage
 # License
